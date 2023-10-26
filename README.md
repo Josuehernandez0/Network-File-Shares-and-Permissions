@@ -1,6 +1,6 @@
 # Network File Shares and Permissions
 <p align="center">
-<img src=""/>
+<img src="https://i.imgur.com/avrefe9.png"/>
 </p>
 
 <h1>Network File Shares and Permissions</h1>
@@ -43,7 +43,7 @@ In this tutorial, going off On-premises Active Directory Deployed in the Cloud (
 <h2>Actions and Observations</h2>
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/nEUrKkF.png"/>
 </p>
 <p>
 First we need to log back into Cilent-1 and DC-1 from [https://github.com/josuehernandez0/Configuring-On-premises-Active-Directory-within-Azure-VMs] using Remote Desktop Connection. Copy the Public IP and log into the VM indivudally.  
@@ -51,7 +51,7 @@ First we need to log back into Cilent-1 and DC-1 from [https://github.com/josueh
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/yXDFHLu.png"/>
 </p>
 <p>
 Open DC-1 VM and click the window icon on the bottom left, then click Windows Administrative Tools
@@ -59,7 +59,7 @@ Open DC-1 VM and click the window icon on the bottom left, then click Windows Ad
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/NL7zvpZ.png"/>
 </p>
 <p>
 Next click Active Directory Users and Computers
@@ -67,7 +67,7 @@ Next click Active Directory Users and Computers
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/qLLGU0D.png"/>
 </p>
 <p>
 Now go to the Employees section and you will see all 2000 Employees created
@@ -75,7 +75,7 @@ Now go to the Employees section and you will see all 2000 Employees created
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/27lEALo.png"/>
 </p>
 <p>
 Next click a random user and copy the display name on a notepad to not forget the name
@@ -83,7 +83,7 @@ Next click a random user and copy the display name on a notepad to not forget th
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/XrnBuUP.png"/>
 </p>
 <p>
 Now type File Explorer in the search bar and open the app
@@ -91,7 +91,7 @@ Now type File Explorer in the search bar and open the app
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/XGsERKY.png"/>
 </p>
 <p>
 Now click on Windows (C)
@@ -99,7 +99,7 @@ Now click on Windows (C)
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/S6FDchK.png"/>
 </p>
 <p>
 From here create the following file read access, write access, no access, and accounting. To do this right click anywhere and click create new folder
@@ -107,7 +107,7 @@ From here create the following file read access, write access, no access, and ac
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/M1QcCFp.png"/>
 </p>
 <p>
 Next right click read access and go to properties
@@ -115,7 +115,7 @@ Next right click read access and go to properties
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/qbYEEPO.png"/>
 </p>
 <p>
 Go to the Sharing section and click share
@@ -123,7 +123,7 @@ Go to the Sharing section and click share
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/zx4AvM8.png"/>
 </p>
 <p>
 Next type domain users and click add
@@ -132,7 +132,7 @@ Next type domain users and click add
 
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/BwjT1h3.png"/>
 </p>
 <p>
 Now click the permissions level and click the read permission. Then click shar on the bottom right 
