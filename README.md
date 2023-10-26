@@ -140,7 +140,7 @@ Now click the permissions level and click the read permission. Then click shar o
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/r70nKbk.png"/>
 </p>
 <p>
 To finish click Done 
@@ -148,7 +148,7 @@ To finish click Done
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/mRP5O6Q.png"/>
 </p>
 <p>
 Right click write access and go to the properties section 
@@ -156,7 +156,7 @@ Right click write access and go to the properties section
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/y2TObnA.png"/>
 </p>
 <p>
 Next click the Sharing tab, and click share 
@@ -164,7 +164,7 @@ Next click the Sharing tab, and click share
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/6rcbXcr.png"/>
 </p>
 <p>
 Under permission level click read/write and then click share
@@ -172,7 +172,7 @@ Under permission level click read/write and then click share
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/rqiuXMU.png"/>
 </p>
 <p>
 To finish click done 
@@ -180,7 +180,7 @@ To finish click done
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/I2WpwNC.png"/>
 </p>
 <p>
 Then click close 
@@ -188,7 +188,7 @@ Then click close
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/KN2FWJU.png"/>
 </p>
 <p>
 Right click no access and click properties
@@ -196,7 +196,7 @@ Right click no access and click properties
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/zDto6JW.png"/>
 </p>
 <p>
 Then click the sharing tab and then click share 
@@ -204,7 +204,7 @@ Then click the sharing tab and then click share
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/0qfyaEj.png"/>
 </p>
 <p>
 Next in the permission level click read/write then click share 
@@ -212,7 +212,7 @@ Next in the permission level click read/write then click share
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/MPiXdKZ.png"/>
 </p>
 <p>
 To finish click Done 
@@ -220,7 +220,7 @@ To finish click Done
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/KzuB7oo.png"/>
 </p>
 <p>
 Then close the file 
@@ -228,7 +228,7 @@ Then close the file
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/lqVHmOm.png"/>
 </p>
 <p>
 Next go to Cilent-1 VM and go to Network > dc-1 in file explorer and click read access 
@@ -236,7 +236,7 @@ Next go to Cilent-1 VM and go to Network > dc-1 in file explorer and click read 
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/JeWSdDj.png"/>
 </p>
 <p>
 Now right click go to new and click text document 
@@ -244,7 +244,7 @@ Now right click go to new and click text document
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/gsnsCyg.png"/>
 </p>
 <p>
 Next you will see that we dont have permission to create the file 
@@ -252,7 +252,7 @@ Next you will see that we dont have permission to create the file
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/zEnAf10.png"/>
 </p>
 <p>
 Next go to the write access folder 
@@ -260,7 +260,7 @@ Next go to the write access folder
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/F0eS6LD.png"/>
 </p>
 <p>
 Next right click and go to new. Then to text document 
@@ -268,7 +268,7 @@ Next right click and go to new. Then to text document
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/SzA6P3U.png"/>
 </p>
 <p>
 We can now click the file and call it hi admin. To show the admin 
@@ -276,7 +276,7 @@ We can now click the file and call it hi admin. To show the admin
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/jqVaZlz.png"/>
 </p>
 <p>
 Now go back to DC-1 VM and go to the read access folder 
@@ -284,7 +284,7 @@ Now go back to DC-1 VM and go to the read access folder
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/3FowPs1.png"/>
 </p>
 <p>
 Now right click and go to new then to text document 
@@ -292,7 +292,7 @@ Now right click and go to new then to text document
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/pRsIaGq.png"/>
 </p>
 <p>
 Next name the text file you can only read me 
@@ -300,7 +300,7 @@ Next name the text file you can only read me
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/Qa6EDro.png"/>
 </p>
 <p>
 Next open the text file and type hello everyone 
@@ -308,7 +308,7 @@ Next open the text file and type hello everyone
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/NapBFyv.png"/>
 </p>
 <p>
 Next go back to Cilent 1 VM and you will see the text file in the read access folder
@@ -316,7 +316,7 @@ Next go back to Cilent 1 VM and you will see the text file in the read access fo
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/pCC6Q3q.png"/>
 </p>
 <p>
 Now go back to DC-1 VM and go to mydomain.com then right click. Go to new then to organizational unit 
@@ -324,7 +324,7 @@ Now go back to DC-1 VM and go to mydomain.com then right click. Go to new then t
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/TWKoO9N.png"/>
 </p>
 <p>
 Now for the name type _SECURITY_GROUPS then click ok 
@@ -332,7 +332,7 @@ Now for the name type _SECURITY_GROUPS then click ok
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/x1c0ZGs.png"/>
 </p>
 <p>
 Next go in the _SECURITY_GROUPS and right click go to new then group
@@ -340,7 +340,7 @@ Next go in the _SECURITY_GROUPS and right click go to new then group
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/OYOTdGP.png"/>
 </p>
 <p>
 Now name the group ACCOUNTIANTS then click ok 
@@ -348,7 +348,7 @@ Now name the group ACCOUNTIANTS then click ok
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/hOwLFA0.png"/>
 </p>
 <p>
 Next go to the accounting file and right click then go to the properties section 
@@ -356,7 +356,7 @@ Next go to the accounting file and right click then go to the properties section
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/mQiloBC.png"/>
 </p>
 <p>
 Next go to the sharing tab then click share 
@@ -364,7 +364,7 @@ Next go to the sharing tab then click share
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/2JTs0eS.png"/>
 </p>
 <p>
 Now type accountians then for permission click read/write once thats done click the share button 
@@ -372,7 +372,7 @@ Now type accountians then for permission click read/write once thats done click 
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/5Jckq9n.png"/>
 </p>
 <p>
 Now click done 
@@ -380,7 +380,7 @@ Now click done
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/PYI6eTf.png"/>
 </p>
 <p>
 Then to finsih it click close 
@@ -388,7 +388,7 @@ Then to finsih it click close
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/ZOJb1Mi.png"/>
 </p>
 <p>
 Next go back to Cilent-1 VM and click the accounting folder and you can see we cant access it 
@@ -396,7 +396,7 @@ Next go back to Cilent-1 VM and click the accounting folder and you can see we c
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/AwyBokT.png"/>
 </p>
 <p>
 Next go back to DC-1 VM then right click the accountiants name then go to the member tab 
@@ -404,7 +404,7 @@ Next go back to DC-1 VM then right click the accountiants name then go to the me
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/gIjYlms.png"/>
 </p>
 <p>
 Next type the name of the user you are logged into then click ok  
@@ -412,7 +412,7 @@ Next type the name of the user you are logged into then click ok
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/HzAiyIy.png"/>
 </p>
 <p>
 To finish click ok 
@@ -420,7 +420,7 @@ To finish click ok
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/ivcx0XI.png"/>
 </p>
 <p>
 Next go back to Cilent 1 VM and click the accounting folder and we can see you cant access it still 
@@ -429,7 +429,7 @@ Next go back to Cilent 1 VM and click the accounting folder and we can see you c
 
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/lSR2Lct.png"/>
 </p>
 <p>
 Next open up command prompt and type logoff
@@ -437,7 +437,7 @@ Next open up command prompt and type logoff
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/44nLpRH.png"/>
 </p>
 <p>
 Next log back into Cilent 1 VM then click the Win key + R then type \\dc-1 then click ok 
@@ -445,7 +445,7 @@ Next log back into Cilent 1 VM then click the Win key + R then type \\dc-1 then 
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/kmw3mt2.png"/>
 </p>
 <p>
 Then go to the accounting folder and you can see you now have permission to access the folder 
